@@ -1,6 +1,3 @@
-Certainly! Here's an updated version of the README.md with the "3D Printing" and "3D Printer: Sidewinder X2" sections merged:
-
-```markdown
 # Robotics Engineer Portfolio
 
 Welcome to my GitHub repository! This repository showcases my work and projects as a robotics engineer, specializing in industrial robots, industrial PLCs, and 3D printing. Feel free to explore the code, documentation, and resources available here.
@@ -44,8 +41,6 @@ This repository is licensed under the [MIT License](./LICENSE). Feel free to use
 Thank you for visiting my GitHub repository! If you have any questions or suggestions, feel free to open an issue or reach out via email.
 
 Happy coding!
-[Your Name]
-[Your Email]
-```
+BatMask
 
 This revised version combines the "3D Printing" and "3D Printer: Sidewinder X2" sections into a single section for a more streamlined presentation.
