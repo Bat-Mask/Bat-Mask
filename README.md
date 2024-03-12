@@ -43,5 +43,5 @@ This repository is licensed under the [MIT License](./LICENSE). Feel free to use
 Thank you for visiting my GitHub repository! If you have any questions or suggestions, feel free to open an issue or reach out via email.
 
 Happy coding!
-[Your Name]
-[Your Email]
+BatMask !
+dev.batmask@gmail.com
