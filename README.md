@@ -7,7 +7,7 @@ Welcome to my GitHub repository! This repository showcases my work and projects 
 - [Industrial PLCs](#industrial-plcs)
 - [Programming Languages](#programming-languages)
 - [3D Printing and 3D Printer: Sidewinder X2](#3d-printing-and-3d-printer-sidewinder-x2)
-- [Projects](#projects)
+- [Projects](https://github.com/Bat-Mask/projects)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
@@ -27,7 +27,7 @@ In addition to my expertise in robotics and automation, I am actively involved i
 The Sidewinder X2 is my go-to 3D printer for prototyping and creating custom parts. Its large build volume and precise printing capabilities make it an integral tool in my engineering toolkit.
 
 ## Projects
-Check out the [Projects](./projects) directory for a collection of my work. Each project comes with detailed documentation, code, and sometimes hardware designs. Feel free to explore, contribute, or provide feedback.
+Check out the [Projects](https://github.com/Bat-Mask/projects) directory for a collection of my work. Each project comes with detailed documentation, code, and sometimes hardware designs. Feel free to explore, contribute, or provide feedback.
 
 ## Getting Started
 If you're new to the repository, start by checking the [Getting Started](./getting-started.md) guide. It provides an overview of the repository structure, installation instructions, and tips for contributing.
@@ -42,5 +42,3 @@ Thank you for visiting my GitHub repository! If you have any questions or sugges
 
 Happy coding!
 BatMask
-
-This revised version combines the "3D Printing" and "3D Printer: Sidewinder X2" sections into a single section for a more streamlined presentation.
