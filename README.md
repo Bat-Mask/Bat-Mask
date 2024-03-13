@@ -1,4 +1,4 @@
-# Robotics Engineer Portfolio
+# Mechatronics & Robotics Engineer Portfolio
 
 Welcome to my GitHub repository! This repository showcases my work and projects as a robotics engineer, specializing in industrial robots, industrial PLCs, and 3D printing. Feel free to explore the code, documentation, and resources available here.
 
